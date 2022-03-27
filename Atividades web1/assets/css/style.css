@@ -1,0 +1,17 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(2, 0, 107);
+}
+
+#nave {
+    background-color: rgb(20, 154, 250);
+}
+
+#planetas {
+    background-color: rgb(20, 100, 250);
+}
+
+#asteroide {
+    background-color: rgb(20, 35, 250);
+}
